@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCases" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-04-27T19:31:55" hostname="LAKESH-LAPTOP" time="28.852">
+  <properties/>
+  <testcase name="testCase01" classname="TestCases" time="1.926"/>
+  <testcase name="testCase02" classname="TestCases" time="1.205"/>
+  <testcase name="testCase03" classname="TestCases" time="1.266"/>
+  <testcase name="testCase04" classname="TestCases" time="0.806"/>
+  <testcase name="testCase05" classname="TestCases" time="1.815"/>
+  <testcase name="testCase06" classname="TestCases" time="1.742"/>
+  <testcase name="testCase07" classname="TestCases" time="1.133"/>
+  <testcase name="testCase08" classname="TestCases" time="18.899"/>
+  <testcase name="testCase09" classname="TestCases" time="0.047"/>
+  <system-out><![CDATA[Start Test case: testCase01
+testCase01: Passed
+End Test case: testCase01
+Start Test case: testCase02
+testCase02: Passed
+End Test case: testCase02
+Start Test case: testCase03
+testCase03: Passed
+End Test case: testCase03
+Start Test case: testCase04
+0 - 2 experience selected
+testCase04: Passed
+End Test case: testCase04
+Start Test case: testCase05
+testCase05: Passed
+End Test case: testCase05
+Start Test case: testCase06
+testCase06: Passed
+End Test case: testCase06
+Start Test case: testCase07
+testCase07: Passed
+End Test case: testCase07
+Start Test case: testCase08
+testCase08: Passed
+End Test case: testCase08
+Start Test case: testCase09
+testCase09: Passed
+End Test case: testCase09
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
